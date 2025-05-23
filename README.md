@@ -1,5 +1,29 @@
-# Catering
-Membuat Aplikasi Catering Sederhana dengan Android Studio
+## 🍽️ Aplikasi Catering (Tugas Mata Kuliah Pemrograman Mobile)
+
+Aplikasi Catering sederhana berbasis Android Studio, dikembangkan sebagai tugas dari Mata Kuliah Pemrograman Mobile. Aplikasi ini merupakan hasil pengembangan dari tutorial yang tersedia di:
+
+ 🆕 Fitur yang Ditambahkan:
+
+* 📍 Input dan penyimpanan alamat pengiriman (MapBox)
+* 📜 Histori pesanan untuk melihat daftar pesanan sebelumnya
+* 📦 Detail pesanan untuk melihat informasi lengkap tiap pesanan
+
+ 🛠️ Teknologi yang Digunakan:
+
+* Android Studio
+* Firebase 
+
+📱 Fitur Utama:
+
+* Pemesanan menu catering
+* Melihat daftar menu
+* Menambahkan pesanan ke keranjang
+* Checkout dan konfirmasi pesanan
+
+### ⚠️ Catatan:
+
+Proyek ini dikembangkan sebagai media pembelajaran dan pengumpulan tugas. Beberapa fitur masih bersifat dasar dan dapat dikembangkan lebih lanjut untuk keperluan produksi.
+
 
 # Tutorial Build with Android Studio
 https://youtu.be/YpGac1bY2Tw
